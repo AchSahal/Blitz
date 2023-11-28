@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "729467677959",
+    "project_id": "blitz-app-238dc",
+    "storage_bucket": "blitz-app-238dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729467677959:android:436897ee11e15eeaa569a2",
+        "android_client_info": {
+          "package_name": "com.example.blitz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729467677959-6nqfn84bstghjlgqh18p1n9ta0ga9nke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blitz",
+            "certificate_hash": "ff18ee8d410c17cbcab8fda0c09ef1ee3d834422"
+          }
+        },
+        {
+          "client_id": "729467677959-rjdtavsgtctlutiiid3eftrg2ikb7j5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1jbcv79Sm9Oh2HaK5vrIWGvAxJo9mMv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729467677959-rjdtavsgtctlutiiid3eftrg2ikb7j5o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "729467677959-bqnno1c70kf838vavl5k8r0oi536pr7c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.blitzfix"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
